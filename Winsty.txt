@@ -1,0 +1,14 @@
+
+
+
+Now your cat has a name, but Winsty is hungry, what will you feed him:
+
+Broccoli 
+
+Fish
+
+Cabbage  
+
+Type "cd your_chosen_food | ls"
+
+

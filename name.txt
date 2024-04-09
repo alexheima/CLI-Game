@@ -1,0 +1,13 @@
+
+
+What will be the name of your cat?
+
+Steven
+
+Winsty
+
+Fluffy
+
+Type "cat your_picked_name.txt" to choose a name
+
+ 
